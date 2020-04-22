@@ -1,0 +1,8 @@
+
+1 Jason Diaz maestro finanzas 2000
+
+34 Juan Perez Contador Finanzas 3000
+
+1 Maria Marcos Tesorera Contabilidad 5000
+
+35 Maria Marcos Finanzas Administracion 7000
